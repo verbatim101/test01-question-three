@@ -1,0 +1,1 @@
+alias testmypatience ='mkdir ~/cupcakes; mkdir ~/cupcakes/are-not; echo -e 'SPRINKLES!\n~/~/Users/CraigOverton\n' >  ~/cupcakes/are-not/better-than-donuts.txt 
